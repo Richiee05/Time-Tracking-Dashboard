@@ -6,7 +6,7 @@ const Header = ({ setTimeFrame }) => {
     <div className=" bg-dark-blue rounded-xl md:row-span-3 lg:row-span-2 overflow-hidden">
       <div className="bg-color-Blue flex justify-start gap-x-5 items-center md:items-start  py-10 rounded-b-xl pl-4 md:flex-col lg:h-[70%] text-pale-blue h-[75%] md:gap-y-6 flex-row">
         <img
-          src="../images/image-jeremy.png"
+          src="./images/image-jeremy.png"
           className="mt-6 h-[3.5rem] w-[3.5rem]
            ring-4 ring-white rounded-full"
           alt=""
