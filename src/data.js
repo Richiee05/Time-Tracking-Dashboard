@@ -1,4 +1,4 @@
-export default [
+const data = [
   {
     title: "Work",
     timeframes: {
@@ -108,3 +108,5 @@ export default [
     logo: "./images/icon-self-care.svg",
   },
 ];
+
+export default data;
